@@ -1,2 +1,4 @@
 # NeoSphereUSB
-The official, and main repository for hosting/containing NeoSphereUSB
+NeoSphereUSB will be created later.
+
+Contact: neosphereubg@gmail.com
